@@ -1,3 +1,5 @@
 "Registro de cambios:" 
 "Primer cambio"  
 "Segundo cambio"  
+"Segundo cambio tarea 11" 
+"cambio random" 
